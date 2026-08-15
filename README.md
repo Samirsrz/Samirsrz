@@ -57,9 +57,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samirsrz&show_icons=true&hide_border=true&bg_color=150C10&title_color=C9A24B&icon_color=9C3A45&text_color=F6EEE8" alt="Samir's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samirsrz&show_icons=true&hide_border=true&bg_color=150C10&title_color=C9A24B&icon_color=9C3A45&text_color=F6EEE8&ring_color=C9A24B" alt="Samir's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirsrz&layout=compact&hide_border=true&bg_color=150C10&title_color=C9A24B&text_color=F6EEE8" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Samirsrz&hide_border=true&background=150C10&ring=9C3A45&fire=C9A24B&currStreakLabel=C9A24B" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Samirsrz&hide_border=true&background=150C10&stroke=35222A&ring=9C3A45&fire=C9A24B&currStreakNum=F6EEE8&currStreakLabel=C9A24B&sideNums=F6EEE8&sideLabels=B9A9A3&dates=8A7A75" alt="GitHub streak stats" />
 </p>
